@@ -1,8 +1,10 @@
 ## Olá, sou Agnaldo Márcio 🤙
 
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agnaldomarcio/) 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/agnaldomarcio)
  
+
 
 <h2>📝 Sobre mim</h2>
 <ul>
@@ -13,11 +15,13 @@
 </ul>
 
 
+
 **Back end 🚀**
 
 <a href="https://php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 <a href="https://go.java/" title="Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitehttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+
 
 **Front end 👩‍💻**
 
@@ -26,6 +30,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
 
 **Design ⚡**
+
 
 **Frameworks ⚡**
 
