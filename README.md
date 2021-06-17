@@ -1,6 +1,7 @@
 ## Olá, sou Agnaldo Márcio 🤙
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agnaldomarcio/)](https://www.linkedin.com/in/agnaldomarcio/) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/agnaldomarcio)
  
 
 <h2>📝 Sobre mim</h2>
@@ -37,6 +38,7 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
 <a href="https://www.eclipse.org/" title="Eclipse"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"></a>
 <a href="https://notepad-plus-plus.org/" title="Notepad++"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++"></a>
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=agnaldomarcio)
 
