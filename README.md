@@ -17,14 +17,14 @@
 
 <h2>✏ Habilidades</h2>
 
-**Back end 🚀**
+**Back end ⚡**
 
 <a href="https://php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 <a href="https://go.java/" title="Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitehttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
 
 
-**Front end 👩‍💻**
+**Front end ⚡**
 
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/HTML5-069?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
@@ -45,6 +45,7 @@
 <a href="https://www.eclipse.org/" title="Eclipse"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"></a>
 <a href="https://notepad-plus-plus.org/" title="Notepad++"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++"></a>
 
+<h2>🚀 Git Status</h2>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=agnaldomarcio)
 
