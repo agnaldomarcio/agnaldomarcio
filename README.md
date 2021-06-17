@@ -11,6 +11,7 @@
 <!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
 </ul>
 
+
 **Back end 🚀**
 
 <a href="https://php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
@@ -36,6 +37,8 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
 <a href="https://www.eclipse.org/" title="Eclipse"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"></a>
 <a href="https://notepad-plus-plus.org/" title="Notepad++"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++"></a>
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=agnaldomarcio)
 
 
 
