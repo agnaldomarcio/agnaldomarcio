@@ -64,7 +64,8 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=agnaldomarcio)
 
 [![Top Langs]<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldomarcio&layout=compact&theme=material-palenight" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldomarcio&layout=compact&theme=material-palenight">
 </a>
-<h2>Em evolução</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldomarcio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
