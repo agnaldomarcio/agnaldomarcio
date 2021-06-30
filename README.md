@@ -70,17 +70,11 @@
 
 <!DOCTYPE html>
 <html>
-
 <head>
-
-  <title>redirecting-loading-effect</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link rel="stylesheet" href="./style.css">
-
 </head>
-
 <body>
-
   <div class='body'>
     <span>
       <span></span>
@@ -100,10 +94,7 @@
     <span></span>
   </div>
   <h1>EVOLUINDO SEMPRE!!!!</h1>
-
-
 </body>
-
 </html>
 
 
