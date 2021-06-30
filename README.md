@@ -68,7 +68,43 @@
 
 <h2>Em evolução</h2>
 
+<!DOCTYPE html>
+<html>
 
+<head>
+
+  <title>redirecting-loading-effect</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+
+  <div class='body'>
+    <span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </span>
+    <div class='base'>
+      <span></span>
+      <div class='face'></div>
+    </div>
+  </div>
+  <div class='longfazers'>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <h1>EVOLUINDO SEMPRE!!!!</h1>
+
+
+</body>
+
+</html>
 
 
 
