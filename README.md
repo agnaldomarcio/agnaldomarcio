@@ -65,41 +65,6 @@
 
 [![Top Langs]<a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
 </a>
 <h2>Em evolução</h2>
-
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class='body'>
-    <span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-    </span>
-    <div class='base'>
-      <span></span>
-      <div class='face'></div>
-    </div>
-  </div>
-  <div class='longfazers'>
-    <span></span>
-    <span></span>
-    <span></span>
-    <span></span>
-  </div>
-  <h1>EVOLUINDO SEMPRE!!!!</h1>
-</body>
-</html>
-
-
-
-
-
-
