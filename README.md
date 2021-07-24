@@ -15,7 +15,7 @@
 </ul>
 
 
-<h2>✏ Minhas Principais Ferramentas de Trabalho</h2>
+<h2>✏ Minhas principais ferramentas de trabalho</h2>
 
 **Back end ⚡**
 
