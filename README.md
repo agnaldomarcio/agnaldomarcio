@@ -22,7 +22,7 @@
 <a href="https://php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 <a href="https://go.java/" title="Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
-<a href="https://go.java/" title="C#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
 
 
 **Front end ⚡**
@@ -45,6 +45,8 @@
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"></a>
 <a href="https://laravel.com/" title="Laravel"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
 <a href="https://spring.io/" title="Spring"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></a>
+<a href="https://docs.microsoft.com/pt-br/learn/dotnet/" title=".Net"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net"></a>
+
 
 
 **Ferramentas e IDEs ⚡**
