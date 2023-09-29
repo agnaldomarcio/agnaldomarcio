@@ -8,7 +8,7 @@
 
 <h2>📝 Sobre mim</h2>
 <ul>
-<li>🖍 Sou Bacharel em Sistemas de Informação, especialista em Engenharia de Software e tenho MBA em Administração de Banco de dados.</li>
+<li>🖍 Sou Bacharel em Sistemas de Informação, especialista em Engenharia de Software e também em Banco de dados.</li>
 <li>❤ Sou apaixonado por desenvolvimento Web, Engenharia de Software e Banco de Dados</li>
 <li>🤜 Meus principais projetos estão aqui no <a href="https://github.com/agnaldomarcio?tab=repositories">Github</a>.</li>
 <!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
